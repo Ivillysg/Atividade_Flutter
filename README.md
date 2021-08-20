@@ -1,6 +1,6 @@
 
-## Widgets utilizados
-Container;
-ListView: 
-Image;
+### Widgets utilizados
+- Container;
+- ListView: 
+- Image;
 
